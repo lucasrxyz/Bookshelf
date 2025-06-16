@@ -17,7 +17,7 @@ Le site fesant 59Mo, il m'est impossible de le mettre sur GitHub en une seule fo
         e-mail: adherent@bts.sio
         mdp: sio
 
-=========================== Code pour un compt administrateur (documentaliste) : ===========================
+=========================== Code pour un compte administrateur (documentaliste) : ===========================
 
         e-mail: docu@bts.sio
         mdp: sio
